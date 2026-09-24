@@ -1,3 +1,3 @@
 # Configuration Guide
-- Backup Destination: /var/backups
-- Backup Destination: /cloud/storage
+- Primary Backup: /cloud/storage
+- Secondary Backup: /mnt/external_drive
