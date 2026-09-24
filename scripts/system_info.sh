@@ -1,4 +1,5 @@
 #!/bin/bash
-echo "=== System Uptime ==="
+set -euo pipefail
+echo "Date: $(date)"
 uptime
 df -h
